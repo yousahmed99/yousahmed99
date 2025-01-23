@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
 <h3 align="center">I'm a Junior Backend Developer with a passion for Java and Spring Boot, and a strong interest in API design and code optimization</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Java8 / Spring boot**
 
 - 👯 I’m looking to collaborate on **Spring Boot projects**
 
